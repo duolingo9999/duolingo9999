@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning duolingo
 - 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me code
+
 
 <!---
 duolingo9999/duolingo9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
